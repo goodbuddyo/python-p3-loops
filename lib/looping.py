@@ -47,3 +47,12 @@ def fizzbuzz():
         print(i)
 
 fizzbuzz()
+
+def counter_test():
+  counter = 0
+
+  while counter < 100:
+    print("hi")
+    counter += 1
+
+counter_test()

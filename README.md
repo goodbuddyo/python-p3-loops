@@ -179,9 +179,10 @@ square_integers([1, 2, 3, 4, 5])
 # [1, 4, 9, 16, 25]
 ```
 
-Write a function `fizzbuzz()` that prints the numbers from 1 to 100. For
-multiples of three, print "Fizz" instead of the number and for the multiples
-of five print "Buzz". For numbers which are multiples of both three and five,
+Write a function `fizzbuzz()` that prints the numbers from 1 to 100. 
+For multiples of three, print "Fizz" instead of the number 
+and for the multiples of five print "Buzz". 
+For numbers which are multiples of both three and five,
 print "FizzBuzz".
 
 ```py
